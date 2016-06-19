@@ -16,3 +16,4 @@
 DEVICE_PACKAGE_OVERLAYS += vendor/samsung/i9300/overlay
 
 $(call inherit-product, vendor/samsung/i9300/i9300-vendor-blobs.mk)
+
